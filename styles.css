@@ -13,7 +13,8 @@ h2{
 }
 
 p{
-    color: rgb(10, 14, 8);
+    color: rgb(0, 0, 0);
+    background-color: rgba(1, 122, 27, 0.336);
     font-size: 25px;
     font-family: "Arial";
 }
